@@ -14,7 +14,7 @@
    3. Finally, run ``` python .\PolyPlot.py```
 
 # How to test:
-  run the following command ```python .\PolyPlot.py --test true```
+  Run the following command ```python .\PolyPlot.py --test true```
       
  
  # Examples:
