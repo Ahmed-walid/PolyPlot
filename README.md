@@ -28,7 +28,7 @@
  ### F(x) = 15*x<sup>3</sup> - 7*x<sup>2</sup> + x -114 when ***x*** ranges from ```-200``` to ```200```
 ![image](https://user-images.githubusercontent.com/62077516/169407949-3026a3dd-c33a-4cb7-b5df-2568a953ef67.png)
 
-### :bomb: Errors and popup messages:
+# :bomb: Errors and popup messages:
 ![image](https://user-images.githubusercontent.com/62077516/169409733-86675baa-f18e-479d-a58f-3f9f3f3fbcff.png)
 ![image](https://user-images.githubusercontent.com/62077516/169409827-d65b4ee3-e3ec-475e-b6e4-03b83d65ce69.png)
 ![image](https://user-images.githubusercontent.com/62077516/169409908-3bdb4017-c378-4732-9d2c-1f2ddf642e71.png)
